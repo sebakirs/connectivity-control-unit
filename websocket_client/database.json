@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "name": "Heavy Rain",
+    "type": "Weather",
+    "description": "Status of vehicles mode: Heavy Rain",
+    "status": false
+}
